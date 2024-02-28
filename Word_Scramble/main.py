@@ -1,8 +1,6 @@
 from codes import title, generateWord, game, playAgain, exit
 title()
-v = 0
-d = 0
-c = 0
+v = d = c = 0
 ccl = True
 while ccl:
     c += 1
